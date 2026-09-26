@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Anime-Forver
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I’m @Anime-Forver
+- 👀 I’m interested in game
+- 📫 How to reach me,
 
-<!---
-Anime-Forver/Anime-Forver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+< Discord : @x.v4e >
+< Email : ageless.noah@gmail.com >
+
